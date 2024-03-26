@@ -1,0 +1,26 @@
+{
+    "Cpf": "333.444.666.444-89",
+    "Primeiro_nome": "Thiago",
+    "Nome_Meio": "Messias",
+    "Ultimo_Nome": "Santos",
+    "Data_Nascimento": "02.01.2004",
+    "Endereco": "Rua x, Numero y, Bairro z, Cidade r",
+    "Salario": 20.500,
+    "Sexo": "masculino",
+    "Cpf_supervisor": "111.888.555.776-98",
+    "Numero_departamento": "65",
+    "dependente": [
+        {
+            "Nome_Dependente": "pietro",
+            "Sexo": "masculino",
+            "Data_Nascimento": "05.01.2029",
+            "Parentesco": "filho"
+        },
+        {
+            "Nome_Dependente": "bianca",
+            "Sexo": "feminino",
+            "Data_Nascimento": "05.01.2029",
+            "Parentesco": "filha"
+        }
+    ]
+}
